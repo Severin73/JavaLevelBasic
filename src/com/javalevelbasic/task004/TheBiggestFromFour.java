@@ -11,14 +11,14 @@ public class TheBiggestFromFour {
     public static final int NUMBER_OF_NUMBERS = 4;
 
     public static void main(String[] args) {
-        System.out.println(getTheBiggestFromFour());
+        System.out.println(getTheBiggestNumber());
     }
 
     /**
      * Reads N numbers from the keyboard and returns the biggest of them.
      * @return the biggest number from the keyboard.
      */
-    private static double getTheBiggestFromFour() {
+    private static double getTheBiggestNumber() {
 
         double[] numbers = new double[1];
         double max = numbers[0];
