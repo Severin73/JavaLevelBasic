@@ -1,7 +1,5 @@
 package com.javalevelbasic.task001;
 
-import java.io.File;
-import java.nio.file.Files;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
@@ -19,7 +17,6 @@ public class ReadNumbers {
 
         printDigits(getNumberFromKeyboard(NUMBER_OF_DIGITS));
     }
-
 
     /**
      * Method to get number from keyboard.
