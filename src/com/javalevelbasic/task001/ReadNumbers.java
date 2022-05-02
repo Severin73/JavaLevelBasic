@@ -21,6 +21,12 @@ public class ReadNumbers {
     }
 
 
+    /**
+     * Method to get number from keyboard.
+     *
+     * @param numberOfDigits
+     * @return String proper size
+     */
     private static String getNumberFromKeyboard(int numberOfDigits) {
         if (numberOfDigits < 1) {
             return "";
@@ -46,6 +52,11 @@ public class ReadNumbers {
         }
     }
 
+    /**
+     * Method to print digits.
+     *
+     * @param number
+     */
     private static void printDigits(String number) {
         System.out.println("The digits of " + number + " are:" + System.lineSeparator() +
                 Stream.of(number.split(""))
