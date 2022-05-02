@@ -16,6 +16,14 @@ public class AreaOfTriangle {
                 SIDE_A_OF_TRIANGLE, SIDE_B_OF_TRIANGLE, SIDE_C_OF_TRIANGLE));
     }
 
+    /**
+     * Calculate the area of a triangle.
+     *
+     * @param sideA
+     * @param sideB
+     * @param sideC
+     * @return area of triangle
+     */
     private static double getAreaOfTriangle(double sideA, double sideB, double sideC) {
         double halfPerimeter = (sideA + sideB + sideC) / 2;
         double area = Math.sqrt(halfPerimeter * (halfPerimeter - sideA) * (halfPerimeter - sideB) * (halfPerimeter - sideC));
