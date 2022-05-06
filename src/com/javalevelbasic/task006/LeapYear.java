@@ -15,7 +15,7 @@ public class LeapYear {
         System.out.print("Enter the year: ");
         int year = readYear();
         if (year > 0) {
-            System.out.println(isLeapYear(year) ? "The year is leap!" : "The year is not leap!");
+            System.out.println(isLeapYear(year) ? "The year has 366 days!" : "The year has 365 days!");
         } else {
             System.out.println("Error! You entered a incorrect year!");
         }
