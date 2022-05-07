@@ -33,7 +33,22 @@ public class DotInsideTheTriangle {
         }
     }
 
+    /**
+     * Method that determines whether the dot is inside the triangle or not.
+     * @param coordinateX
+     * @param coordinateY
+     */
     private static void dotPositionInTriangle(double coordinateX, double coordinateY) {
+        double AB_AO_Z = (A_X - coordinateX) * (B_Y - A_Y) - (B_X - A_X) * (A_Y - coordinateY);
+        double BC_BO_Z = (B_X - coordinateX) * (C_Y - B_Y) - (C_X - B_X) * (B_Y - coordinateY);
+        double CA_CO_Z = (C_X - coordinateX) * (A_Y - C_Y) - (A_X - C_X) * (C_Y - coordinateY);
 
+        if (AB_AO_Z == 0 || BC_BO_Z == 0 || CA_CO_Z == 0) {
+            System.out.println("The point is on the one of triangle's sides.");
+        } else if ((AB_AO_Z > 0 && BC_BO_Z > 0 && CA_CO_Z > 0) || (AB_AO_Z < 0 && BC_BO_Z < 0 && CA_CO_Z < 0)) {
+            System.out.println("The point is inside the triangle.");
+        } else {
+            System.out.println("The point is outside the triangle.");
+        }
     }
 }
