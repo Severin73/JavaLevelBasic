@@ -22,7 +22,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #010](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task010/LuckyTicket.java) -> heck whether a four-digit number is a lucky ticket. A four-digit number is given. Check if it is a "lucky ticket". Note: a lucky ticket is a number in which - with an even number of digits in the number, the sum of the digits of its left half is equal to the sum of the digits of its right half. For example, consider the number 1322. Its left half is 13, and its right half is 22, and it is a lucky ticket (because 1+3 = 2 + 2)
 
-[Task #011]()
+[Task #011](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task011/PalindromeNumber.java) -> A N-digit number is entered from the keyboard. Check if it is a palindrome.
 
 [Task #012]()
 
