@@ -14,10 +14,23 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #006](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task006/LeapYear.java) -> Determine the number of days in the year that the user enters. In a leap year - 366 days, whereas in a normal 365. Leap years are all years divided entirely by 4, with the exception of centuries, which are not divided entirely by 400.
 
-[Task #007]()
+[Task #007](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task007/Triangle.java) ->  Given: a, b, c — sides of the assumed triangle. Write a program that will indicate whether such a triangle exists or not.
 
-[Task #008]()
+[Task #008](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task008/CheckDotPositionInCircle.java) -> There is a circle centered at the (x0, y0) and with a radius of R. The user enters the coordinates of the point x and y from the keyboard. Write a program that will determine whether this point lies inside the circle or not.
 
-[Task #009]()
+[Task #009](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task009/DotInsideTheTriangle.java) -> The triangle coordinates of the vertices A(x1,y1), B(x2,y2), C(x3,y3) are given. The user enters the coordinates of the point x and y from the keyboard.  Write a program that will determine whether this point lies inside a triangle or not.
 
-[Task #010]()
+[Task #011]()
+
+[Task #012]()
+
+[Task #013]()
+
+[Task #014]()
+
+[Task #015]()
+
+[Task #016]()
+
+[Task #017]()
+
