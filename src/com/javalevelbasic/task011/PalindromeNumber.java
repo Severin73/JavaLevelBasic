@@ -23,7 +23,7 @@ public class PalindromeNumber {
             }
 
         } catch (IOException e) {
-            System.out.println("Ошибка! Введите число.");
+            System.out.println("Error! Enter a correct number.");
         }
     }
 }
