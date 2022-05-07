@@ -44,9 +44,7 @@ public class LuckyTicket {
 
         try {
             for (int i = 0; i < chars.length / 2; i++) {
-                //leftSum += chars[i] - '0';
                 leftSum += Integer.parseInt(String.valueOf(chars[i]));
-                //rightSum += chars[chars.length - i - 1] - '0';
                 rightSum += Integer.parseInt(String.valueOf(chars[chars.length - i - 1]));
             }
         } catch (NumberFormatException e) {
