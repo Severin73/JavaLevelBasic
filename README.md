@@ -30,7 +30,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #014](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task014/MultiplicationTable.java) -> Create the multiplication table by N
 
-[Task #015]() ->
+[Task #015](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task015/Rectangle.java) -> Display a rectangle from \*. Moreover, the height and width of the rectangle are entered from the keyboard. For example, below is a rectangle with a height of H and a width of W.
 
-[Task #016]() ->
+[Task #016]() -> 
 
