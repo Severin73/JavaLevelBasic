@@ -11,6 +11,11 @@ public class CountOddDigits {
         System.out.println(countOddDigits(ARRAY));
     }
 
+    /**
+     * Counts odd digits in array.
+     * @param array
+     * @return
+     */
     private static int countOddDigits(int[] array) {
         int count = 0;
 
