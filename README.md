@@ -26,7 +26,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #012](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task012/WallPaper.java) -> Use cycles to draw "wallpaper". Moreover, the number of bands must be entered from the keyboard.
 
-[Task #013]() ->
+[Task #013](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task013/Factorial.java) -> Calculate using a loop the factorial of the number - n entered from the keyboard (4 < n < 16). The factorial of a number is the product of all numbers from that number to 1. For example 5!=5*4*3*2*1=120
 
 [Task #014]() ->
 
