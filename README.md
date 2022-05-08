@@ -28,7 +28,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #011](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task011/PalindromeNumber.java) -> A N-digit number is entered from the keyboard. Check if it is a palindrome.
 
-### 2. Cycles
+### 3. Cycles
 
 [Task #012](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task012/WallPaper.java) -> Use cycles to draw "wallpaper". Moreover, the number of bands must be entered from the keyboard.
 
