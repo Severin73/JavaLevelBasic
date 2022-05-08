@@ -28,7 +28,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #013](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task013/Factorial.java) -> Calculate using a loop the factorial of the number - n entered from the keyboard (4 < n < 16). The factorial of a number is the product of all numbers from that number to 1. For example 5!=5*4*3*2*1=120
 
-[Task #014]() ->
+[Task #014](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task014/MultiplicationTable.java) -> Create the multiplication table by N
 
 [Task #015]() ->
 
