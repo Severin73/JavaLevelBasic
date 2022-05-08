@@ -1,4 +1,4 @@
-package com.javalevelbasic.task12;
+package com.javalevelbasic.task012;
 
 import java.io.BufferedReader;
 import java.io.IOException;
