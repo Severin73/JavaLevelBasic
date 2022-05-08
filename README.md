@@ -32,5 +32,35 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #015](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task015/Rectangle.java) -> Display a rectangle from \*. Moreover, the height and width of the rectangle are entered from the keyboard. For example, below is a rectangle with a height of H and a width of W.
 
-[Task #016]() -> 
+[Task #016](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task016/PrimeNumbers.java) -> Use loops to display all prime numbers from 1 to N.
+
+[Task #017]() ->
+
+[Task #018]() ->
+
+[Task #019]() ->
+
+[Task #020]() ->
+
+[Task #021]() ->
+
+[Task #022]() ->
+
+[Task #023]() ->
+
+[Task #024]() ->
+
+[Task #025]() ->
+
+[Task #026]() ->
+
+[Task #027]() ->
+
+[Task #028]() ->
+
+[Task #029]() ->
+
+[Task #030]() ->
+
+[Task #031]() ->
 
