@@ -48,7 +48,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #019](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task019/ArrayRandom.java) -> Create an array of random numbers (15 elements in size). Create a second array twice as large, the first 15 elements should be equal to the elements of the first array, and fill the remaining elements with twice the initial value. For Example, It Was - {1,4,7,2} Became - {1,4,7,2,2,8,14,4}
 
-[Task #020]() ->
+[Task #020](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task020/CountCharInString.java) -> Enter a line of text from the keyboard — implement a program to be able to count the number of characters — 'b' in this line, with the output of the result on the screen.
 
 [Task #021]() ->
 
