@@ -46,7 +46,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #018](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task018/IntArray.java) -> Write code for the ability to create an array of integers (the size is entered from the keyboard) and the ability to fill in each of its elements manually. Output this array to the screen.
 
-[Task #019]() ->
+[Task #019](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task019/ArrayRandom.java) -> Create an array of random numbers (15 elements in size). Create a second array twice as large, the first 15 elements should be equal to the elements of the first array, and fill the remaining elements with twice the initial value. For Example, It Was - {1,4,7,2} Became - {1,4,7,2,2,8,14,4}
 
 [Task #020]() ->
 
