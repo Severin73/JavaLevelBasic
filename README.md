@@ -50,7 +50,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #020](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task020/CountCharInString.java) -> Enter a line of text from the keyboard — implement a program to be able to count the number of characters — 'b' in this line, with the output of the result on the screen.
 
-[Task #021]() ->
+[Task #021](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task021/ReversArray.java) ->Write code for mirroring an array flip (7,2,9,4) -> (4,9,2,7). The array can be of any length. (You cannot use an additional array when performing a task) 
 
 [Task #022]() ->
 
