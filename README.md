@@ -54,7 +54,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 ### 5. Methods
 
-[Task #022]() ->
+[Task #022](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task022/MaxInArray.java) -> Write a method that returns the maximum number from an array of integers.
 
 [Task #023]() ->
 
