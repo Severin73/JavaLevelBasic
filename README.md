@@ -44,7 +44,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #017](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task017/CountOddDigits.java) -> Given an array — write a program to count odd digits in it.
 
-[Task #018]() ->
+[Task #018](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task018/IntArray.java) -> Write code for the ability to create an array of integers (the size is entered from the keyboard) and the ability to fill in each of its elements manually. Output this array to the screen.
 
 [Task #019]() ->
 
