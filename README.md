@@ -62,7 +62,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #025](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task025/LinearSearchInArray.java) -> Write a method that implements a linear search for an element in an array of integers. If there is such an element in the array, then return its index, if not, the method should return a number - "-1"
 
-[Task #026]() ->
+[Task #026](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task026/CountWordsInSentence.java) -> Write a method that will return the number of words in a line of text.
 
 [Task #027]() ->
 
