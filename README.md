@@ -58,7 +58,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #023](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task023/ConcatTypes.java) -> Implement a method whose parameters are an integer, a real number and a string. It returns the concatenation of a string with the sum of a real and an integer.
 
-[Task #024]() ->
+[Task #024](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task015/Rectangle.java) -> Implement a method that draws a rectangle of asterisks "*" on the screen — its parameters will be integers that describe the length and width of such a rectangle.
 
 [Task #025]() ->
 
