@@ -64,7 +64,15 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 [Task #026](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task026/CountWordsInSentence.java) -> Write a method that will return the number of words in a line of text.
 
-[Task #027]() ->
+[Task #027](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task027/FindNextElementInSequence.java) -> * There are such sequences of numbers
+0,2,4,6,8,10,12
+1,4,7,10,13
+1,2,4,8,16,32
+1,3,9,27
+1,4,9,16,25
+1,8,27,64,125
+Implement a program that outputs the next member of this sequence (or similar to them).
+For example, the user enters the string 0,2,4,6,8,10,12 the program response should be the number 14.
 
 [Task #028]() ->
 
