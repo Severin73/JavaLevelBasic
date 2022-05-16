@@ -2,6 +2,12 @@
 
 The course will cover Java fundamentals such as Java Core, collections, multithreading, OOP, design patterns,basic algorithms and data structures.
 
+[Java Start](#Java Start) / [Java OOP](#Java OOP) / [Java PRO]()
+
+## Java Start
+
+---
+
 ### 1. Variables
 
 [Task #001](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task001/ReadNumbers.java) -> Write a program that reads a 5-digit number from the keyboard and outputs the digits of which it consists. For example : The number 54698 is read
@@ -78,7 +84,40 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #029](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task029/FindAllPermutation.java) -> There is an array {1,2,3,4,5} — the size of the array can be arbitrary. Write a program that will display all possible combinations of these numbers. Attention there should be no repetitions.
 
+### 6. Elements of the standard library
+
 [Task #030]() ->
 
 [Task #031]() ->
 
+[Task #032]() ->
+
+[Task #033]() ->
+
+[Task #034]() ->
+
+[Task #035]() ->
+
+### 7. Working with files
+
+[Task #036]() ->
+
+[Task #037]() ->
+
+[Task #038]() ->
+
+[Task #039]() ->
+
+[Task #040]() ->
+
+## Java OOP
+
+---
+
+### 1. OOP Basics
+
+[Task #001]() ->
+
+[Task #002]() ->
+
+[Task #003]() ->
