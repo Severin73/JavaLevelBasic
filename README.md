@@ -76,7 +76,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #028](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task028/BiggestPalindromeNumber.java) -> A palindrome number on both sides (from right to left and from left to right) reads the same. The largest number is a palindrome obtained by multiplying two two-digit numbers -9009 = 91 x 99. Find the largest palindrome obtained by multiplying two three-digit numbers.
 
-[Task #029]() ->
+[Task #029](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task029/FindAllPermutation.java) -> There is an array {1,2,3,4,5} — the size of the array can be arbitrary. Write a program that will display all possible combinations of these numbers. Attention there should be no repetitions.
 
 [Task #030]() ->
 
