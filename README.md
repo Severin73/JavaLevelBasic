@@ -6,8 +6,6 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 
 ## <a name="javastart" /> Java Start
 
----
-
 ### 1. Variables
 
 [Task #001](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task001/ReadNumbers.java) -> Write a program that reads a 5-digit number from the keyboard and outputs the digits of which it consists. For example : The number 54698 is read
@@ -111,8 +109,6 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 [Task #040]() ->
 
 ## <a name="javaoop" /> Java OOP
-
----
 
 ### 1. OOP Basics
 
