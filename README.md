@@ -2,7 +2,7 @@
 
 The course will cover Java fundamentals such as Java Core, collections, multithreading, OOP, design patterns,basic algorithms and data structures.
 
-[Java Start](#javastart) / [Java OOP](#javaoop) / [Java PRO]()
+[Java Start](#javastart) / [Java OOP](#javaoop) / [Java PRO](#javapro)
 
 ## <a name="javastart" /> Java Start
 
@@ -117,3 +117,5 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 [Task #002]() ->
 
 [Task #003]() ->
+
+## <a name="javapro" /> Java PRO
