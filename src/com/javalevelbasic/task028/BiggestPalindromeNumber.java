@@ -2,8 +2,8 @@ package com.javalevelbasic.task028;
 
 /**
  * A palindrome number on both sides (from right to left and from left to right) reads the same.
- * The largest number is a palindrome obtained by multiplying two two-digit numbers -9009 = 91 x 99. F
- * ind the largest palindrome obtained by multiplying two three-digit numbers.
+ * The largest number is a palindrome obtained by multiplying two two-digit numbers -9009 = 91 x 99.
+ * Find the largest palindrome obtained by multiplying two three-digit numbers.
  */
 public class BiggestPalindromeNumber {
 

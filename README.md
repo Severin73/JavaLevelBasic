@@ -74,7 +74,7 @@ The course will cover Java fundamentals such as Java Core, collections, multithr
 Implement a program that outputs the next member of this sequence (or similar to them).  
 For example, the user enters the string 0,2,4,6,8,10,12 the program response should be the number 14.
 
-[Task #028]() ->
+[Task #028](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task028/BiggestPalindromeNumber.java) -> A palindrome number on both sides (from right to left and from left to right) reads the same. The largest number is a palindrome obtained by multiplying two two-digit numbers -9009 = 91 x 99. Find the largest palindrome obtained by multiplying two three-digit numbers.
 
 [Task #029]() ->
 
