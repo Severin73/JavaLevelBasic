@@ -86,7 +86,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #030](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task030/FindMilliseconds.java) -> Write a program that will return the number of milliseconds that have passed from the same number, but last month to today's date. For example, if today is August 3rd, then find out how many milliseconds have passed since July 3rd.
 
-[Task #031]() ->
+[Task #031](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task031/myToStringForIntArr.java) -> Write your own version of the Arrays.toString() method for int[].
 
 [Task #032]() ->
 
