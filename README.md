@@ -88,7 +88,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #031](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task031/myToStringForIntArr.java) -> Write your own version of the Arrays.toString() method for int[].
 
-[Task #032]() ->
+[Task #032](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task032/BinaryNumberToDecimal.java) -> Enter a number in binary format from the console. Convert it to decimal and display it on the screen (“10” -> 2).
 
 [Task #033]() ->
 
