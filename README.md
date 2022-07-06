@@ -92,7 +92,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #033](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task033/PiValue.java) -> Display 10 lines with the value of Pi. Moreover, there should be 2 decimal places in the first line, 3 in the second, 4 in the third, and so on.
 
-[Task #034]() ->
+[Task #034](https://github.com/Severin73/JavaLevelBasic/commit/d71af650cb0d19d785222d0405190d01d75bcaedhttps://github.com/Severin73/JavaLevelBasic/commit/d71af650cb0d19d785222d0405190d01d75bcaed) -> Enter the date from the console. Compare it with the current date in the system. Display the different parts (year, month) on the screen.
 
 [Task #035]() ->
 
