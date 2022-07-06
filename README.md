@@ -94,7 +94,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #034](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task034/DateDifference.java) -> Enter the date from the console. Compare it with the current date in the system. Display the different parts (year, month) on the screen.
 
-[Task #035]() -> Calculate the Hamming distance between these two numbers.
+[Task #035](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task035/HammingDistance.java) -> Calculate the Hamming distance between these two numbers.
 
 ### 7. Working with files
 
