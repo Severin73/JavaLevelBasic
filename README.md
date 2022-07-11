@@ -100,7 +100,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #036](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task036/NotePad.java) -> Create a console "text editor" with the ability to save the typed text to a file.
 
-[Task #037]() ->
+[Task #037]() -> Write a method to save a two-dimensional array of integers to a text file.
 
 [Task #038]() ->
 
