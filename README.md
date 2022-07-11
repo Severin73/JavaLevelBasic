@@ -98,7 +98,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 ### 7. Working with files
 
-[Task #036](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task036/NotePad.javahttps://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task036/NotePad.java) -> Create a console "text editor" with the ability to save the typed text to a file.
+[Task #036](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task036/NotePad.java) -> Create a console "text editor" with the ability to save the typed text to a file.
 
 [Task #037]() ->
 
