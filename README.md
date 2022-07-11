@@ -102,7 +102,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #037](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task037/SafeToFileMatrix.java) -> Write a method to save a two-dimensional array of integers to a text file.
 
-[Task #038]() ->
+[Task #038]() -> Implement a method that will display a list of all directories that "lie" in the directory that will be a parameter of this method.
 
 [Task #039]() ->
 
