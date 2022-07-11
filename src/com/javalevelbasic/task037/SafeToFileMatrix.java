@@ -45,7 +45,6 @@ public class SafeToFileMatrix {
                 return sb.toString();
             }
             sb.append("\t\t");
-            //sb.append("\t");
         }
     }
 
