@@ -104,7 +104,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #038](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task038/CatalogList.java) -> Implement a method that will display a list of all directories that "lie" in the directory that will be a parameter of this method.
 
-[Task #039](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task039/FrequencyOfLetters.javahttps://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task039/FrequencyOfLetters.java) -> Read the text in English from the text file and output statistics on the frequency of use of letters in the text (i.e., the letter is the number of uses), and the letters used most often should be displayed first.Read the text in English from the text file and output statistics on the frequency of use of letters in the text (i.e., the letter is the number of uses), and the letters used most often should be displayed first.
+[Task #039](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task039/FrequencyOfLetters.java) -> Read the text in English from the text file and output statistics on the frequency of use of letters in the text (i.e., the letter is the number of uses), and the letters used most often should be displayed first.Read the text in English from the text file and output statistics on the frequency of use of letters in the text (i.e., the letter is the number of uses), and the letters used most often should be displayed first.
 
 [Task #040]() ->
 
