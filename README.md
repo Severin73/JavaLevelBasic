@@ -106,7 +106,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #039](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task039/FrequencyOfLetters.java) -> Read the text in English from the text file and output statistics on the frequency of use of letters in the text (i.e., the letter is the number of uses), and the letters used most often should be displayed first.Read the text in English from the text file and output statistics on the frequency of use of letters in the text (i.e., the letter is the number of uses), and the letters used most often should be displayed first.
 
-[Task #040]() ->
+[Task #040](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task40/ASCIIArt.java) -> Write a method for creating ASCII art in a file, i.e. figures of 40x40 characters filled with characters forming a pattern.
 
 ## <a name="javaoop" /> Java OOP
 

@@ -5,6 +5,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 
+/**
+ * Write a method for creating ASCII art in a file, i.e. figures of 40x40 characters filled with characters forming a pattern.
+ */
 public class ASCIIArt {
 
     public static void main(String[] args) {
