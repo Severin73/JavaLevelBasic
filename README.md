@@ -112,7 +112,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 ### 1. OOP Basics
 
-[Task #001]() ->
+[Task #001]() -> Describe the "Cat" class (you can take a pet as a sample). Endow it with properties and methods. Create multiple instances of objects of this class. Use these objects.
 
 [Task #002]() ->
 
