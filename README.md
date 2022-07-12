@@ -114,7 +114,7 @@ For example, the user enters the string 0,2,4,6,8,10,12 the program response sho
 
 [Task #001](https://github.com/Severin73/JavaLevelBasic/blob/main/src/com/javalevelbasic/task41) -> Describe the "Cat" class (you can take a pet as a sample). Endow it with properties and methods. Create multiple instances of objects of this class. Use these objects.
 
-[Task #002]() ->
+[Task #002]() -> Describe the "Triangle" class. Take the lengths of the sides of the triangle as properties. Implement a method that will return the area of this triangle. Create several objects of this class and test them.
 
 [Task #003]() ->
 
